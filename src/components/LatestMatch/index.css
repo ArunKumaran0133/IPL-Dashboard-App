@@ -1,0 +1,47 @@
+.team-text {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.date-text {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 700;
+  font-size: 28px;
+}
+.venue-text {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 15px;
+}
+.result-text {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.team-detail-image {
+  height: 200px;
+  width: 200px;
+}
+
+.match-detail-heading-text {
+  color: white;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 19px;
+}
+
+.last-match-detail-container {
+  background-color: #0f172a;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-radius: 10px;
+}

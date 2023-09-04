@@ -1,0 +1,26 @@
+.team-image {
+  height: 80px;
+  width: 60px;
+}
+
+.Team-name-text {
+  font-family: 'Bree Serif';
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.team-item-container {
+  border: 1px solid #475569;
+  display: flex;
+  align-items: center;
+  width: 350px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+}
